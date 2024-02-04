@@ -4,7 +4,7 @@ I'm Jordin 🙋‍♂️
 
 Software Engineering Student 👨‍💻
 
-I have basic knowledge about Python, Java, and C++ 🧠
+Python, Java & C++ Junior Developer 👾
 
 I love everything about Artificial Intelligence as long as we don't use it to kill us all 😆
 
