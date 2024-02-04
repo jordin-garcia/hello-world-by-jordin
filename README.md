@@ -17,9 +17,3 @@ I believe we are peaces of code diving in an infinite database of knowledge call
 Thank you for taking your valuable time to read my bio!
 
 May the force stay with you!!!
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.bing.com/images/create/create-a-futuristic-image-of-a-software-engineer-w/1-65bef7a720d84651a1856677d869fee4?id=Hcc3v5oap3t2uavlL5nJWw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay">
- <source media="(prefers-color-scheme: light)" srcset="https://www.bing.com/images/create/create-a-futuristic-image-of-a-software-engineer-w/1-65bef7a720d84651a1856677d869fee4?id=Hcc3v5oap3t2uavlL5nJWw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay">
- <img alt="YOUR-ALT-TEXT" src="https://www.bing.com/images/create/create-a-futuristic-image-of-a-software-engineer-w/1-65bef7a720d84651a1856677d869fee4?id=Hcc3v5oap3t2uavlL5nJWw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay">
-</picture>
